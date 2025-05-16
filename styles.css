@@ -1,0 +1,77 @@
+/* Nome do arquivo: Dashboard Pokémon TCG
+ * Data de criação: 15/05/2025
+ * Autor: José Roberto
+ * Matrícula: 1741383
+ *
+ * Descrição:
+ * Estilização customizada para o Dashboard Pokémon TCG usando Bootstrap 5.
+ * Organiza visualmente a página com responsividade, estética e clareza.
+ */
+
+body {
+  background-color: #f5f5f5;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding-top: 30px;
+}
+
+.container {
+  background: #ffffff;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 2px 15px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  color: #e3350d;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+#card-code {
+  border-radius: 8px;
+}
+
+button {
+  border-radius: 8px;
+}
+
+.card {
+  margin-top: 30px;
+}
+
+.card img.card-image {
+  display: block;
+  max-width: 100%;
+  margin: 0 auto 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #ccc;
+}
+
+.card h2 {
+  text-align: center;
+  margin-top: 20px;
+  color: #3b4cca;
+}
+
+.card p {
+  font-size: 16px;
+}
+
+.attack {
+  background-color: #f0f8ff;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-left: 4px solid #3b4cca;
+  border-radius: 6px;
+}
+
+@media (max-width: 768px) {
+  .container {
+    padding: 20px;
+  }
+
+  input[type=\"text\"], button {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+}
