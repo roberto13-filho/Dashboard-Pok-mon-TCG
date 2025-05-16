@@ -1,22 +1,22 @@
-Painel-Pokemon-TCG App.jsx
-Data de criação: 15/05/2025
+# Painel-Pokemon-TCG App.jsx
+* Data de criação: 15/05/2025
 
-Autor: José Roberto Silva Filho
+* Autor: José Roberto Silva Filho
 
-Matrícula: 1741383 Curso: ADS UNINASSAU
+* Matrícula: 1741383 Curso: ADS UNINASSAU
 
-Descrição:
+* Descrição:
 
-Este componente React implementa um painel de cartas do Pokémon TCG.
+* Este componente React implementa um painel de cartas do Pokémon TCG.
 
-Funcionalidades:
+* Funcionalidades:
 
-Campo de busca por código de cartão
+* Campo de busca por código de cartão
 
-Exibição específica do cartão pesquisado
+* Exibição específica do cartão pesquisado
 
-Persistência e exibição de cartas salvas no localStorage
+* Persistência e exibição de cartas salvas no localStorage
 
-Estilização com Bootstrap
+* Estilização com Bootstrap
 
-git remoto adicionar origem https://github.com/ /.git git branch -M principal git push -u origem principal
+8 git remoto adicionar origem https://github.com/ /.git git branch -M principal git push -u origem principal
